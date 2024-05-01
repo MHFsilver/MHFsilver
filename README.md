@@ -15,12 +15,7 @@
 This tool was made in order to modify the header of GameBoy ROMs in order for them to be playable using Pokemon Stadium's GB Tower. Normally the GB Tower checks the save data and the ROM header, if the check fails, it denys the game. This tool will write the correct data to a provided ROM. This may not be the most ideal way to do this, as since there's been hacks released that remove the check outright, but this could still be a useful option for those with only an original cartridge and no Everdrive.  
   
   Check it out [here](https://github.com/MHFsilver/Header-Swap-GB)  
-    
-## Splatoon Wordle  
-This one is merely a test as it is, just me messing with an open source Wordle clone called [React Wordle](https://github.com/cwackerfuss/react-wordle) and seeing how well I can make it fit Splatoon. It can be played currently, but you need to clone the repository and run it locally. Maybe one day I'll finish it and run it off my website.  
-  
-  Check it out [here](https://github.com/MHFsilver/splatoon-wordle)  
-    
+
 # Future Porjects  
 - Balloon Fight Randomizer/level editor  
 One of my favorite NES games. Its been lacking good tools for messing with it and creating levels, I want to investigate the idea of making a tool for it or creating a randomizer. While there are hacks, it requires knowledge of hex editing, I want to try and make it more accessible. 
